@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day1\\Dynamic Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7663A06C-D7FF-445D-97D5-B33B922D1BD1}|Dynamic Array\\Dynamic Array.vcxproj|C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day1\\Dynamic Array\\Dynamic Array\\Dynamic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7663A06C-D7FF-445D-97D5-B33B922D1BD1}|Dynamic Array\\Dynamic Array.vcxproj|solutionrelative:Dynamic Array\\Dynamic Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dynamic Array.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day1\\Dynamic Array\\Dynamic Array\\Dynamic Array.cpp",
+              "RelativeDocumentMoniker": "Dynamic Array\\Dynamic Array.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day1\\Dynamic Array\\Dynamic Array\\Dynamic Array.cpp",
+              "RelativeToolTip": "Dynamic Array\\Dynamic Array.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAnwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-14T09:58:47.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
