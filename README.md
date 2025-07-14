@@ -29,6 +29,7 @@ Space Complexity:
 Always O(n)
 -------------------
 2-Singly Linked List
+Time Complexity:
 - Search-> O(n)
 - Insert at Head-> O(1)
 - Inster at Tail-> O(1)
@@ -38,6 +39,7 @@ Space Complexity:
 Always O(n)
 -------------------
 3-Stack
+Time Complexity:
 - Pushing-> O(1)
 - Popping-> O(1)
 - Peeking-> O(1)
