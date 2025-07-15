@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day2\\Linked List Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CE963F-0F3A-4A7B-AD78-C868055BE69C}|Linked List Queue\\Linked List Queue.vcxproj|C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day2\\Linked List Queue\\Linked List Queue\\Linked List Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5CE963F-0F3A-4A7B-AD78-C868055BE69C}|Linked List Queue\\Linked List Queue.vcxproj|solutionrelative:Linked List Queue\\Linked List Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Linked List Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day2\\Linked List Queue\\Linked List Queue\\Linked List Queue.cpp",
+              "RelativeDocumentMoniker": "Linked List Queue\\Linked List Queue.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day2\\Linked List Queue\\Linked List Queue\\Linked List Queue.cpp",
+              "RelativeToolTip": "Linked List Queue\\Linked List Queue.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-15T08:37:11.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
