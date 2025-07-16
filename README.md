@@ -23,7 +23,12 @@ Visual Studio 2022
 6-Circular Linked List
 - It is a data structure that contains a sequence of nodes, where each node has data, and points to the next node, additionally and what makes it special from a normal linked list is that the last node points to the first node making the list circular.
 -------------------
-To be Continued
+7-Binary Tree
+- A binary tree is a directed acyclic graph (made from n nodes and n-1 edges), for which every node has at most two child nodes.
+-------------------
+8-Binary Search Tree (BST)
+- A binary search tree is a binary tree that satisfies the BST invariant, where the left subtree has smaller elements than the root and right subtree has larger elements than the root.
+-------------------
 
 # Time/ Space Complexity Analysis 
 1-Dynamic Arrays
@@ -85,7 +90,29 @@ Space Complexity:
 Always O(n)
 
 -------------------
-To be Continued
+6-Binary Tree
+Time Complexity:
+- Insert-> O(n)
+- Delete (full tree)-> O(n)
+- Remove (one node)-> O(n)
+- Search-> O(n)
+
+Space Complexity:
+Always O(n)
+
+-------------------
+7-Binary Search Tree
+- Insert-> O(n)
+- Delete (full tree)-> O(n)
+- Remove (one node)-> O(n)
+- Search-> O(n)
+
+Space Complexity:
+Always O(n)
+
+-------------------
+To be continued
+
 
 # Usage Examples
 1-Dynamic Arrays
@@ -124,11 +151,24 @@ To be Continued
 - Music and video list Loops
 - Multiplier board games such as Monopoly and UNO.
 -------------------
-To be Continued
+7-Binary Trees
+- Used in BST.
+- Used in the implementation of binary heaps.
+- Syntax trees
+- Treap
+-------------------
+8-Binary Search Trees
+- Implementation of some map and set ADTs.
+- Red-Black Trees.
+- AVL Trees.
+- Splay Trees.
+-------------------
+To be continued
 
 # How to Run Tests
 For all of the data structures you will need :
 - A C++ compiler and a code editor (e.g., Visual Studio 2022).
+- Open the folder with the name of the data structure you want to test.
 - Run the code provided in `main()`. All methods of the classes are tested there.
 -------------------
 1-Dynamic Arrays
@@ -177,8 +217,8 @@ The two test codes initialize a Quese using an array and a linked list, and they
   and more
 - There is also a method called `toString()` that prints the contents of the Doubly Linked List to visualize the current state of the Doubly Linked List.
   -------------------
-5-Circular Linked List
-- The test code initializes a Circular Linked List List and performs various operations such as:
+6-Circular Linked List
+- The test code initializes a Circular Linked List and performs various operations such as:
   - `add()`
   - `remove()`
   - `addFirst()`
@@ -186,5 +226,27 @@ The two test codes initialize a Quese using an array and a linked list, and they
   and more
 - There is also a method called `printList()` that prints the contents of the Circular Linked List to visualize the current state of the Circular Linked List.
 -------------------
-To be Continued
-
+7-Binary Trees
+- The test code initializes a Binary Tree and performs various operations such as:
+  - `insert()`
+  - `size()`
+  - `isEmpty()`
+  - `clear()`
+  and more
+- Note that the requirment tree traversal algorithms (inorder, preorder, postorder) is implemented and tested in the code as well in the follownig functions:
+  - `preorder()`
+  - `inorder()`
+  - `postorder()`
+------------------- 
+8-Binary Search Trees
+- The test code initializes a Binary Search Trees and performs various operations such as:
+  - `add()`
+  - `remove()`
+  - `contains()`
+  - `height()`
+- Note that the requirment tree traversal algorithms (inorder, preorder, postorder) is implemented and tested in the code as well in the follownig functions:
+  - `preorder()`
+  - `inorder()`
+  - `postorder()`
+------------------- 
+To be continued

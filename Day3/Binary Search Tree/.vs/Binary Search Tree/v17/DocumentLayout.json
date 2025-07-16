@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day3\\Binary Search Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8545F4D-2B25-45A7-AC5B-20831DF7D7ED}|Binary Search Tree\\Binary Search Tree.vcxproj|C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day3\\Binary Search Tree\\Binary Search Tree\\Binary Search Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8545F4D-2B25-45A7-AC5B-20831DF7D7ED}|Binary Search Tree\\Binary Search Tree.vcxproj|solutionrelative:Binary Search Tree\\Binary Search Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Binary Search Tree.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day3\\Binary Search Tree\\Binary Search Tree\\Binary Search Tree.cpp",
+              "RelativeDocumentMoniker": "Binary Search Tree\\Binary Search Tree.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day3\\Binary Search Tree\\Binary Search Tree\\Binary Search Tree.cpp",
+              "RelativeToolTip": "Binary Search Tree\\Binary Search Tree.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vyIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-16T09:52:16.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
