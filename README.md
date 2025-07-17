@@ -29,6 +29,17 @@ Visual Studio 2022
 8-Binary Search Tree (BST)
 - A binary search tree is a binary tree that satisfies the BST invariant, where the left subtree has smaller elements than the root and right subtree has larger elements than the root.
 -------------------
+9-Hash Table
+- HTs are often used to track item frequencies. For instance, counting the number of times a word appears in a given text.
+-------------------
+10-Min Heap
+- A min heap is a special case of a binary tree, where it is a complete tree except for possibly the leafes, the parent node should be <= the child nodes.
+-------------------
+11-Graph 
+- A graph is a data structure that is made of vertices (nodes) and edges (links), it can be directed or undirected, weighted or unweighted, and it is used to represent multiple other data structures.
+-------------------
+To be continued
+
 
 # Time/ Space Complexity Analysis 
 1-Dynamic Arrays
@@ -102,6 +113,7 @@ Always O(n)
 
 -------------------
 7-Binary Search Tree
+Time Complexity:
 - Insert-> O(n)
 - Delete (full tree)-> O(n)
 - Remove (one node)-> O(n)
@@ -109,6 +121,35 @@ Always O(n)
 
 Space Complexity:
 Always O(n)
+
+-------------------
+8-Hash Table
+Time Complexity:
+- Insert-> O(n)
+- Remove-> O(n)
+- Search-> O(n)
+
+Space Complexity:
+Always O(n)
+
+-------------------
+9-Min Heap
+Time Complexity:
+- Insert-> O(1)
+- GetMin-> O(logn)	
+- Remove-> O(log n)
+- Heapify-> O(logn)	
+
+Space Complexity:
+To extract Min and HeapifyO(1)
+
+-------------------
+10-Graph using and Adjacency Matrix
+Time Complexity:
+- O(V^2) where v is the number of verticies
+
+Space Complexity:
+Always O(V^2)
 
 -------------------
 To be continued
@@ -163,7 +204,25 @@ To be continued
 - AVL Trees.
 - Splay Trees.
 -------------------
+9-Hash Table
+- Key-Value Storage
+- Caching
+- Routing Tables in networks
+- Symbol Tables
+-------------------
+10-Min Heap
+- Priority Queue	
+- Dijkstra's Algorithm	
+- Heap Sort	
+-------------------
+11-Graph
+- Networks
+- Navigation Systems	
+- Trees
+- Social Networks	
+-------------------
 To be continued
+
 
 # How to Run Tests
 For all of the data structures you will need :
@@ -244,9 +303,36 @@ The two test codes initialize a Quese using an array and a linked list, and they
   - `remove()`
   - `contains()`
   - `height()`
+  and more
 - Note that the requirment tree traversal algorithms (inorder, preorder, postorder) is implemented and tested in the code as well in the follownig functions:
   - `preorder()`
   - `inorder()`
   - `postorder()`
 ------------------- 
+9-Hash Table
+- The test code initializes a Hash Table with collision detection using chaining and adressing and it performs various operations such as:
+  - `insert()`
+  - `get()`
+  - `remove()`
+  and more
+-------------------
+10-Min Heap
+- The test code initializes a Min Heap and performs various operations such as:
+  - `insert()`
+  - `getMin()`
+  - `remove()`
+  - `heapifyUp()`
+  - `heapifyDown()`
+  and more
+- There is also a method called `printHeap()` that prints the contents of the Min Heap to visualize the current state of the Min Heap.
+-------------------
+11-Graphs
+- The test code initializes a Graphs and performs various operations such as:
+  - `addEdge()`
+  - `removeEdge()`
+  - `clear()`
+  - `isEmpty()`
+  and more
+- There is also a method called `printGraph()` that prints the contents of the Graphs to visualize the current state of the Graphs.
+-------------------
 To be continued

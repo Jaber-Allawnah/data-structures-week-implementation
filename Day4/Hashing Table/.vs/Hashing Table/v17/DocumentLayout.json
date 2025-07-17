@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day4\\Hashing Table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0544104-0631-4849-A25C-A1A3D7F8255A}|Hashing Table\\Hashing Table.vcxproj|C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day4\\Hashing Table\\Hashing Table\\Hashing Table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0544104-0631-4849-A25C-A1A3D7F8255A}|Hashing Table\\Hashing Table.vcxproj|solutionrelative:Hashing Table\\Hashing Table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hashing Table.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day4\\Hashing Table\\Hashing Table\\Hashing Table.cpp",
+              "RelativeDocumentMoniker": "Hashing Table\\Hashing Table.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day4\\Hashing Table\\Hashing Table\\Hashing Table.cpp",
+              "RelativeToolTip": "Hashing Table\\Hashing Table.cpp",
+              "ViewState": "AgIAAKEAAAAAAAAAAADwv4gAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T08:41:26.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

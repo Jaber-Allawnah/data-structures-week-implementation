@@ -1,0 +1,4 @@
+﻿  Hashing Table.cpp
+C:\Users\Hp\Desktop\Training 1\data-structures-week-implementation\Day4\Hashing Table\Hashing Table\Hashing Table.cpp(172,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\Desktop\Training 1\data-structures-week-implementation\Day4\Hashing Table\Hashing Table\Hashing Table.cpp(183,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Hashing Table.vcxproj -> C:\Users\Hp\Desktop\Training 1\data-structures-week-implementation\Day4\Hashing Table\x64\Debug\Hashing Table.exe

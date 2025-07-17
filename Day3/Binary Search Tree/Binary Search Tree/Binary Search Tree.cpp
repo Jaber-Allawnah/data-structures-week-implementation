@@ -1,6 +1,4 @@
 #include <iostream>//for cin and cout
-#include <queue>//already implemented in day 2 so used to reduve code complexity
-#include <stack>//aleady implmeneted in day so used to reduve code complexity
 
 using namespace std;
 
