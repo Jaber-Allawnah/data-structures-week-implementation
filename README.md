@@ -275,7 +275,7 @@ The two test codes initialize a Quese using an array and a linked list, and they
   - `peekLast()`
   and more
 - There is also a method called `toString()` that prints the contents of the Doubly Linked List to visualize the current state of the Doubly Linked List.
-  -------------------
+-------------------
 6-Circular Linked List
 - The test code initializes a Circular Linked List and performs various operations such as:
   - `add()`
