@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day5\\Union Find\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15C89EF-28B5-41B8-B104-23177A46A9EA}|Union Find\\Union Find.vcxproj|C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day5\\Union Find\\Union Find\\Union Find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A15C89EF-28B5-41B8-B104-23177A46A9EA}|Union Find\\Union Find.vcxproj|solutionrelative:Union Find\\Union Find.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Union Find.cpp",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day5\\Union Find\\Union Find\\Union Find.cpp",
+              "RelativeDocumentMoniker": "Union Find\\Union Find.cpp",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\Training 1\\data-structures-week-implementation\\Day5\\Union Find\\Union Find\\Union Find.cpp",
+              "RelativeToolTip": "Union Find\\Union Find.cpp",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-17T22:54:50.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

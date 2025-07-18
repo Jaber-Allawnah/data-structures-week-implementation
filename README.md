@@ -38,8 +38,18 @@ Visual Studio 2022
 11-Graph 
 - A graph is a data structure that is made of vertices (nodes) and edges (links), it can be directed or undirected, weighted or unweighted, and it is used to represent multiple other data structures.
 -------------------
-To be continued
-
+12-Trie
+- A Trie is a tree data structure, used to store words char by char in a tree in and effcient and space saving way, the path from the root to a node that has an end of word flag is a word.
+-------------------
+13-Unoin Find
+- Unoin Find is a data structure that help manage a group of disjoint sets, they are sets that have elements in them but they never overlap.
+-------------------
+14-Graph traversal BFS 
+- BFS is an uninformed graph traversal algorithm that visits all nodes level by level starting from a given source node, it uses queues to store vistied nodes, dequeue them when they are visited to vist the next node in the queue.
+-------------------
+15-Graph traversal DFS
+- DFS is an uninformed graph traversal algorithm that visits all nodes going into the depth of the graph starting from a given source node, it uses stacks to store vistied nodes, pop them when they are visited to vist the next node in the queue.
+-------------------
 
 # Time/ Space Complexity Analysis 
 1-Dynamic Arrays
@@ -152,7 +162,41 @@ Space Complexity:
 Always O(V^2)
 
 -------------------
-To be continued
+11-Trie
+Time Complexity:
+- Insert-> O(n)
+- search-> O(n)	
+- startsWith-> O(n)	
+
+Space Complexity:
+O(N * k)	where k us the 26  alphabets and N is number of characters stored
+
+-------------------
+12-Unoin Find
+Time Complexity:
+- find-> O(n)
+- union-> O(n)	
+
+Space Complexity:
+O(n)
+
+-------------------
+13-Graph traversal BFS 
+Time Complexity:
+- O(b^s) where b in the number of nodes and s is the level of tree
+
+Space Complexity:
+O(b^s)
+
+-------------------
+14-Graph traversal DFS
+Time Complexity:
+- O(b^m) where b in the number of nodes and m is the deepest level
+
+Space Complexity:
+O(bm)
+
+-------------------
 
 
 # Usage Examples
@@ -221,8 +265,24 @@ To be continued
 - Trees
 - Social Networks	
 -------------------
-To be continued
-
+12-Trie
+- Keyboard suggestions
+- IP routing	
+- Dictionary storage	
+- Word games	
+-------------------
+13-Unoin Find
+- Cycle detection in a graph	
+- Merging accounts or sets	
+-------------------
+14-Graph traversal BFS 
+- Shortest path	
+- AI agents search
+-------------------
+15-Graph traversal DFS
+- Topological sort	
+- AI agents search
+-------------------
 
 # How to Run Tests
 For all of the data structures you will need :
@@ -335,4 +395,22 @@ The two test codes initialize a Quese using an array and a linked list, and they
   and more
 - There is also a method called `printGraph()` that prints the contents of the Graphs to visualize the current state of the Graphs.
 -------------------
-To be continued
+12-Trie
+- The test code initializes a Trie and performs various operations such as:
+  - `insert()`
+  - `search()`
+  - `startsWith()`
+-------------------
+13-Unoin Find
+- The test code initializes a Unoin Find and performs various operations such as:
+  - `find()`
+  - `unionSets()`
+-------------------
+14-Graph traversal BFS 
+- The test code initializes a Graph and performs BFS on it using a queue and BFS principle using an opertation called:
+  - `bfs()`
+-------------------
+15-Graph traversal DFS 
+- The test code initializes a Graph and performs DFS on it using a stack and DFS principle using an opertation called:
+  - `dfs()`
+-------------------
