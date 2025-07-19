@@ -53,6 +53,7 @@ Visual Studio 2022
 -------------------
 10-Min Heap
 - A min heap is a special case of a binary tree, where it is a complete tree except for possibly the leafes, the parent node should be <= the child nodes.
+  
   <img width="257" height="304" alt="Min hEap 1" src="https://github.com/user-attachments/assets/6bc9cb61-f682-487e-ba87-cccb1382c776" />
   
   <img width="292" height="364" alt="Min Heap2" src="https://github.com/user-attachments/assets/b925993b-1b5c-4c8f-909c-4b1e026ef88c" />
