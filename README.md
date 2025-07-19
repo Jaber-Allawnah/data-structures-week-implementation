@@ -8,59 +8,77 @@ Visual Studio 2022
 1-Dynamic Arrays
 - It is a data structure that can do everything that a static array can do, from set to get etc, but the main difference is that it can shrink or grow size as needed during runtime automatically.
   <img width="596" height="270" alt="dynamic array" src="https://github.com/user-attachments/assets/45d6deb0-2067-4d28-865e-7bf41847e0a6" />
+  
 -------------------
 2-Singly Linked List
 - It is a data structure, represent a sequence nodes that hold data these nodes point to the next node in the list, it only uses a single pointer to do that.
   <img width="716" height="254" alt="singly-linkedlist" src="https://github.com/user-attachments/assets/6e663d43-67b0-4a97-ab27-23113a2db9cd" />
+  
 -------------------
 3-Stack
 - It is a one-ended linear data structure which models a real-world stack by having two primary operations, namely push and pop, it works primary on the principle of LIFO( Last in, First out).
 <img width="512" height="366" alt="stack" src="https://github.com/user-attachments/assets/43f6b402-fec5-4dc7-95f3-de5d1610e3d3" />
+
 -------------------
 4-Queue
 - A queue is a linear data structure which models real world queues by having two primary operations, namely enqueue and dequeue, it works primary on the principle of FIFO( First in, First out).
  <img width="544" height="353" alt="queue" src="https://github.com/user-attachments/assets/a762074e-b1c3-4980-86d8-0ba2be40c40b" />
+ 
 -------------------
 5-Doubly Linked List
 - It is a data structure, represent a sequence nodes that hold data these nodes point to the next and previous nodes in the list, it uses 2 pointers to do that.
  <img width="933" height="176" alt="DLL" src="https://github.com/user-attachments/assets/45478a1a-1948-4ecf-a450-404d0f13f349" />
+ 
 -------------------
 6-Circular Linked List
 - It is a data structure that contains a sequence of nodes, where each node has data, and points to the next node, additionally and what makes it special from a normal linked list is that the last node points to the first node making the list circular.
   <img width="944" height="153" alt="CLL" src="https://github.com/user-attachments/assets/8482d830-6d6a-4b57-b267-bdc86204ede2" />
+  
 -------------------
 7-Binary Tree
 - A binary tree is a directed acyclic graph (made from n nodes and n-1 edges), for which every node has at most two child nodes.
   <img width="941" height="605" alt="image" src="https://github.com/user-attachments/assets/d3f34d53-07b4-4b35-ba93-b5b1c3e0ae26" />
+  
 -------------------
 8-Binary Search Tree (BST)
 - A binary search tree is a binary tree that satisfies the BST invariant, where the left subtree has smaller elements than the root and right subtree has larger elements than the root.
  <img width="734" height="342" alt="BST" src="https://github.com/user-attachments/assets/e6d6be69-e007-4dd9-8709-8e9eb880dd92" />
+ 
 -------------------
 9-Hash Table
 - HTs are often used to track item frequencies. For instance, counting the number of times a word appears in a given text.
   <img width="892" height="435" alt="Hash Table" src="https://github.com/user-attachments/assets/ad40636d-937a-4c03-954a-1844058cd747" />
+  
 -------------------
 10-Min Heap
 - A min heap is a special case of a binary tree, where it is a complete tree except for possibly the leafes, the parent node should be <= the child nodes.
   <img width="257" height="304" alt="Min hEap 1" src="https://github.com/user-attachments/assets/6bc9cb61-f682-487e-ba87-cccb1382c776" />
+  
   <img width="292" height="364" alt="Min Heap2" src="https://github.com/user-attachments/assets/b925993b-1b5c-4c8f-909c-4b1e026ef88c" />
+  
   <img width="903" height="390" alt="MIn Heap 3" src="https://github.com/user-attachments/assets/28a1caa8-df2c-416d-89ba-84bc7b3e25cc" />
+  
 -------------------
 11-Graph 
 - A graph is a data structure that is made of vertices (nodes) and edges (links), it can be directed or undirected, weighted or unweighted, and it is used to represent multiple other data structures.
   <img width="872" height="350" alt="Graph" src="https://github.com/user-attachments/assets/dcb5230e-4a72-45b4-868f-1c8d10574909" />
+  
 -------------------
 12-Trie
 - A Trie is a tree data structure, used to store words char by char in a tree in and effcient and space saving way, the path from the root to a node that has an end of word flag is a word.
  <img width="715" height="666" alt="Trie" src="https://github.com/user-attachments/assets/e308cd85-56d9-467f-8f5f-ae7d4cb389e5" />
+ 
 -------------------
 13-Unoin Find
 - Unoin Find is a data structure that help manage a group of disjoint sets, they are sets that have elements in them but they never overlap.
   <img width="525" height="235" alt="image" src="https://github.com/user-attachments/assets/63988f7f-f9ac-47e8-8c72-2c6c9cf5d5a9" />
+  
   <img width="617" height="269" alt="image" src="https://github.com/user-attachments/assets/b9a1e299-6924-4fea-b6c1-0c532709d734" />
+  
   <img width="654" height="296" alt="image" src="https://github.com/user-attachments/assets/94361302-a2d3-4b31-9ddb-f5fca1b1359b" />
+  
   <img width="681" height="307" alt="image" src="https://github.com/user-attachments/assets/202209e0-cd86-4beb-b40f-04ead59a3099" />
+  
 -------------------
 14-Graph traversal BFS 
 - BFS is an uninformed graph traversal algorithm that visits all nodes level by level starting from a given source node, it uses queues to store vistied nodes, dequeue them when they are visited to vist the next node in the queue.
@@ -70,6 +88,7 @@ Visual Studio 2022
 15-Graph traversal DFS
 - DFS is an uninformed graph traversal algorithm that visits all nodes going into the depth of the graph starting from a given source node, it uses stacks to store vistied nodes, pop them when they are visited to vist the next node in the queue.
   <img width="1343" height="765" alt="image" src="https://github.com/user-attachments/assets/55f99226-8191-4af9-bff8-6a3801ef0f0a" />
+  
 -------------------
 
 # Time/ Space Complexity Analysis 
