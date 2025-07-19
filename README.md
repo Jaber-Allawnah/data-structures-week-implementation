@@ -7,6 +7,7 @@ Visual Studio 2022
 # Description of Each Data Structure 
 1-Dynamic Arrays
 - It is a data structure that can do everything that a static array can do, from set to get etc, but the main difference is that it can shrink or grow size as needed during runtime automatically.
+- 
   <img width="596" height="270" alt="dynamic array" src="https://github.com/user-attachments/assets/45d6deb0-2067-4d28-865e-7bf41847e0a6" />
   
 -------------------
